@@ -17,3 +17,6 @@ The quick brown fox, etc.
 
 My credentials should be stored now.
 
+This is from a newly cloned repo.
+
+
