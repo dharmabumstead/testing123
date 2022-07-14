@@ -14,3 +14,6 @@ Again
 xyzzy
 
 The quick brown fox, etc.
+
+My credentials should be stored now.
+
